@@ -1,24 +1,5 @@
 ### Hi there 👋
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
-name: GitHub-Profile-Summary-Cards
-
-on:
-  schedule: # execute every 24 hours
-    - cron: '* */24 * * *'
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate
-
-    steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
 <!--
 **hyun031916/hyun031916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
