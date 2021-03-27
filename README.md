@@ -1,6 +1,11 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Kim%20Suhyun&fontSize=90)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+<div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
 <!--
 **hyun031916/hyun031916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
