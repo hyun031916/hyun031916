@@ -24,39 +24,19 @@
 <a href="" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/></a>
 
 
-### Version Control
-<a href="" target="_blank"><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/></a>
-<a href="" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/></a>
+### Databases
+<a href="" target="_blank"><img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=flat-square&logo=oracle&logoColor=white" /></a>
+<a href="" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/></a>
+
+
 
 ### Social
-<a href="" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+<a href="https://www.instagram.com/kim_suhyun77" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-F78743?style=flat-square&logo=Instagram&logoColor=white" /></a>
 <a href="hyun031916@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" /></a>
 <a href="" target="_blank"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" /></a>
 <a href="https://www.facebook.com/hyun031916" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=flat-square&logo=Facebook&logoColor=white"/></a>
 
-
-### Hosting / SaaS
-<a href="" target="_blank"><img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase"/></a>
-
-### Servers
-<a href="" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=flat-square&logo=apache&logoColor=white"/></a>
-
-### Databases
-<a href="" target="_blank"><img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=flat-square&logo=oracle&logoColor=white" /></a>
-<a href="" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/></a>
-
-### ML / DL
-<a href="" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" /></a>
-<a href="" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" /></a>
-
-
-<!--
-### Store
-<a href="" target="_blank"><img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
-<a href="" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a> -->
-
-### Other
-<a href="" target="_blank"><img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=flat-square&logo=Trello&logoColor=white"/></a>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=6f42c1&text=%20Developer&height=280&fontSize=80&fontAlignY=65&fontColor=FFFFFF&rotate=18)
