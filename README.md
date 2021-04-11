@@ -58,3 +58,5 @@
 
 ### Other
 <a href="" target="_blank"><img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=flat-square&logo=Trello&logoColor=white"/></a>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=6f42c1&text=%20Developer&height=280&fontSize=80&fontAlignY=65&fontColor=FFFFFF&rotate=18)
