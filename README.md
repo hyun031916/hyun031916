@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=247DA4&size=25&multiline=true&width=700&height=50&lines=Hi!+I'm+positive+developer%2C+Seungmin+Yi.)](https://git.io/typing-svg).  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=247DA4&size=25&multiline=true&width=700&height=50&lines=Hi!+I'm+a+Back-End+developer%2C+Suhyun+Kim.)](https://git.io/typing-svg).  
 
 ## 😁 About Me:
 - 👶 I'm a back developer in Korea
