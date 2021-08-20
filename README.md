@@ -5,7 +5,7 @@
 ## 😁 About Me:
 - 👶 I'm a back developer in Korea
 - 💻 I mainly code in Java, but I'm always learning
-- ✉️ You can connect to me with s2019w33@e-mirim.hs.kr <br><br>
+- ✉️ You can connect to me with hyun031916@gmail.com <br><br>
 
 ## 📫 How to reach me?
 - [velog](https://velog.io/@hyun031916)
