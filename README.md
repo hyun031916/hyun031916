@@ -1,16 +1,16 @@
+## 😎 Nice to Meet you! I'm a Back-End Developer, Kim SuHyun
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=247DA4&size=25&multiline=true&width=700&height=50&lines=Hello%2C+World!)](https://git.io/typing-svg).  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=247DA4&size=25&multiline=true&width=700&height=50&lines=Hi!+I'm+a+Back-End+developer%2C+Suhyun+Kim.)](https://git.io/typing-svg).  
-
-## 😁 About Me:
+## About Me:
 - 👶 I'm a back developer in Korea
 - 💻 I mainly code in Java, but I'm always learning
 - ✉️ You can connect to me with hyun031916@gmail.com <br><br>
 
-## 📫 How to reach me?
+## How to reach me?
 - [velog](https://velog.io/@hyun031916)
 
-## 📄 I'm learning about
+## I'm learning about
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><br><br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
