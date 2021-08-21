@@ -8,7 +8,8 @@
 - ✉️ You can connect to me with hyun031916@gmail.com <br><br>
 
 ## How to reach me?
-- [velog](https://velog.io/@hyun031916)
+- [velog](https://velog.io/@hyun031916)<p>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyun031916&color=dark)](https://github.com/hyun031916/개발-블로그를-시작하며)
 
 ## I'm learning about
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
