@@ -1,12 +1,11 @@
-## 😎 Nice to Meet you! I'm a Back-End Developer, Kim SuHyun
+## Nice to Meet you! I'm a Back-End Developer, Kim SuHyun.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=247DA4&size=25&multiline=true&width=700&height=50&lines=Hello%2C+World!)](https://git.io/typing-svg).  
 
 ## About Me:
-- 👶 I'm a back developer in Korea
-- 💻 I mainly code in Java, but I'm always learning
+- 👶 I'm a newbie developer in Korea.
+- 💻 I mainly code in PHP, but I'm always learning...
 - ✉️ You can connect to me with hyun031916@gmail.com <br><br>
-- (github enterprise)[https://github.nhnent.com/suhyun-kim]
 
 ## How to reach me?
 - [velog](https://velog.io/@hyun031916)<p>
