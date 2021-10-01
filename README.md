@@ -6,6 +6,7 @@
 - 👶 I'm a back developer in Korea
 - 💻 I mainly code in Java, but I'm always learning
 - ✉️ You can connect to me with hyun031916@gmail.com <br><br>
+- (github enterprise)[https://github.nhnent.com/suhyun-kim]
 
 ## How to reach me?
 - [velog](https://velog.io/@hyun031916)<p>
